@@ -1,0 +1,164 @@
+.Header{
+    width: 78.5%;
+    display: grid;
+    grid-template-rows: 10% 8% 82%;
+}
+
+.Header_title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    margin-left: .3rem;
+    background-color:rgba(255, 255, 255, .5);
+    border-radius: .8rem 0 .8rem 0;
+    font-family: Inknut Antiqua;
+}
+
+.editBox{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    margin-left: .3rem;
+    margin-top: .3rem;
+    border-radius: 0% .8rem .8rem 0%;
+
+}
+
+.editBox button{
+    margin: .2rem .6rem;
+}
+
+.editBox div{
+    font-size: 2rem;
+}
+
+.Header_main{
+    font-size: 2rem;
+    margin-left: .3rem;
+    background-color:rgba(255, 255, 255, .5);
+    border-radius: 0 .8rem 0 .8rem;
+    overflow-y: auto;
+}
+
+.mainContent{
+    display: flex;
+    justify-content: center;
+}
+
+
+.sections{
+    display: flex;
+    justify-content: center;
+    font-size: 1.7rem;
+    
+}
+
+.detailHeading{
+    font-size: 1.5rem;
+    background-color:rgba(118, 211, 205, 0.5);
+    padding: .4rem;
+    font-family: Kelly Slab;
+}
+
+.personalDetails{
+    font-size: 1.1rem;
+    background-color:rgba(209, 203, 203, 0.3);
+    padding: .4rem;
+}
+
+.name{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    
+}
+
+.Options{
+    width: 40%;
+}
+
+.address input{
+    width: 55.8%;
+}
+
+.educationalDetails{
+    font-size: 1.1rem;
+    background-color:rgba(209, 203, 203, 0.3);
+    padding: .4rem;
+}
+
+.WorkDetails{
+    font-size: 1.1rem;
+    background-color:rgba(209, 203, 203, 0.3);
+    padding: .4rem;
+}
+
+.jobHighlight input{
+    width: 55.8%;
+}
+
+.projectDetails{
+    font-size: 1.1rem;
+    background-color:rgba(209, 203, 203, 0.3);
+    padding: .4rem;
+}
+
+.jobHighlight input{
+    width: 55.8%;
+}
+
+.projectlinks input{
+    width: 55.8%;
+}
+
+.highlights input{
+    width: 55.8%;
+}
+
+.contactDetails{
+    font-size: 1.1rem;
+    background-color:rgba(209, 203, 203, 0.3);
+    padding: .4rem;
+}
+
+.email input{
+    width: 30%;
+}
+
+.phoneno input{
+    width: 30%;
+}
+
+.blog{
+    width: 96%;
+    height: 96%;
+    margin: 2% 2%;
+}
+
+.aboutme{
+    padding: 2% 0%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+.aboutme div{
+    font-size: 1.5rem;
+    font-family: Kelly Slab;
+    text-align: center;
+}
+
+
+.hireme div{
+    font-size: 1.5rem;
+    font-family: Kelly Slab;
+    text-align: center;
+}
+
+
+
+

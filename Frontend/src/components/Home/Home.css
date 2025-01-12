@@ -1,0 +1,118 @@
+.home{
+    width: 100%;
+    height:100%;
+    background-color: black;
+}
+
+.homeHeader{
+    height: 22%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.homeHeader_field{
+    width: 39%;
+    height: 100%;
+}
+
+.homeHeader_field1{
+    width: 98%;
+    margin-left: 2%;
+    height: 100%;
+    background-color: rgba(203,244,239,255);
+}
+
+.homeHeader_field2{
+    width: 98%;
+    height: 100%;
+    margin-right: 2%;
+    background-color:white;
+}
+
+.homeHeader_bg{
+    height:100%;
+    width: 22%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+
+}
+
+.homeHeader_bg div{
+    background-color: rgba(168, 237, 229, 1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 98%;
+    width: 98%;
+}
+
+.homeHeader_logo {
+    width:10.125rem;
+    height:92%;
+}
+
+.homeMain{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    width: 100%;
+    height: 78%;
+
+}
+
+.gettingStarted{
+    width: 50%;
+    height: 100%;
+    background-color: white;
+}
+
+.gettingStartedbg{
+    height: 80%;
+    width: 90%;
+    background-color:white ;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.welcome{
+    height: 98%;
+    margin-top: 2%;
+    width: 98.4%;
+    background-color: rgba(203,244,239,255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.joinNow{
+    height: 90%;
+    display:grid;
+    grid-template-rows: 90% 10%;
+
+}
+
+.greeting {
+    height: 95%;
+    width: 90%;
+    margin: 0% 5%;
+    margin-top: 10%;
+    text-align: center;
+    font-family: Merienda One;
+}
+
+.join{
+    width: 100%;
+    height: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.join button{
+    width: 40%;
+    height: 95%;
+}

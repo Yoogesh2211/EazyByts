@@ -1,0 +1,61 @@
+.SignUp{
+    width: 50%;
+    height: 100%;
+    background-color: rgba(203,244,239,255);
+}
+
+form{
+    margin-top: 2%; 
+    height: 98%;
+    width: 98.4%;
+    margin-left: 1.6%;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction: column;
+    background-color: white;
+}
+
+.SignUpbg{
+    height: 80%;
+    width: 90%;
+    background-color:rgba(203,244,239,255) ;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.SignUpTitle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30%;
+    width: 100%;
+}
+
+.SignUpTitle div{
+    width: 80%;
+    font-size: 1.6rem;
+    background-color: white;
+    border-radius: 20%;
+    margin-top: 2%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.SignUpdetails{
+    height: 30%;
+    width: 80%;
+ display: flex;
+ justify-content: space-around;
+ flex-direction: column;
+ margin-bottom: 20%;
+
+}
+
+.Field{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

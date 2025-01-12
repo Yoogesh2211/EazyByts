@@ -1,0 +1,61 @@
+.login{
+    width: 50%;
+    height: 100%;
+    background-color: rgba(203,244,239,255);
+}
+
+form{
+    margin-top: 2%; 
+    height: 98%;
+    width: 98.4%;
+    margin-left: 1.6%;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction: column;
+    background-color: white;
+}
+
+.loginbg{
+    height: 80%;
+    width: 90%;
+    background-color:rgba(203,244,239,255) ;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.loginTitle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30%;
+    width: 100%;
+}
+
+.loginTitle div{
+    width: 50%;
+    font-size: 2.5rem;
+    background-color: white;
+    border-radius: 20%;
+    margin-top: 2%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logindetails{
+    height: 30%;
+    width: 80%;
+ display: flex;
+ justify-content: space-around;
+ flex-direction: column;
+ margin-bottom: 20%;
+
+}
+
+.Field{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

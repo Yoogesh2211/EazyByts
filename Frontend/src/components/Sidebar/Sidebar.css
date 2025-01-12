@@ -1,0 +1,16 @@
+.sidebarBox{
+    width: 21.5%;
+    height: 100%;
+    background-color:rgba(255, 255, 255, .5);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 0 .8rem .8rem 0;
+
+}
+
+.sidebarBox img{
+    padding: 2% 0%;
+    width:10.125rem;
+    height:9.688rem ;
+}

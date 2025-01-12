@@ -1,0 +1,17 @@
+:root {
+  font-family: Inria Serif;
+  font-weight:bold;
+  font-size: 16;
+  color: rgba(0, 0, 0, 1);
+  background-color: rgba(187, 237, 231, 1);
+}
+
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
