@@ -1,2 +1,3 @@
 # EazyByts
 Portfolio Website
+During my internship at eazybyts, a prominent IT solution and consulting firm, I was tasked with developing an innovative portfolio website designed to empower users to create, customize, and swiftly deploy their professional profiles. The platform features a diverse array of themes to cater to different artistic and professional styles, allowing users to personalize their portfolios effortlessly. Moreover, I integrated a user-friendly editing interface that enables real-time updates, ensuring that users can showcase their latest work and achievements live with just a few clicks. This project not only honed my technical skills but also provided valuable insights into user experience design and web deployment processes.
